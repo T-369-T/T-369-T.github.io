@@ -1,0 +1,19 @@
+:root {
+    color-scheme: dark;
+    font-size: 20px
+}
+
+body {
+    font-family: "Noto Sans HK", Arial, sans-serif;
+    text-align: center;
+    background-color: #1E1E1E
+}
+
+.Math {
+    font-family: KaTeX_Main
+}
+
+.Code {
+    font-size: 0.8rem;
+    font-family: "Fira Code", monospace
+}
